@@ -1,3 +1,8 @@
+# task2
+Name: Elakkiya.K
+Domain: Web Development
+Codetech IT Id:CT6WDS1808
+
 #html
 "<!DOCTYPE html>
 <html lang="en">
